@@ -1,2 +1,2 @@
 # RAS_GRiSTEN_scores
-The R script for computing GRiSTEN scores using user-provided data is available and includes an example random sample to illustrate its use. Users should replace it with their own dataset. The R scripts used for the analyses reported in the article, along with the corresponding data, are provided
+The R script for computing GRiSTEN scores using user-provided data is available in R_script_for_computing_GRiSTEN_scores.docx and includes an example random sample to illustrate its use; users should replace it with their own dataset. The R scripts used for the analyses reported in the article GRiSTEN Norms for the Relationship Assessment Scale in Mexican Married Adults, along with the corresponding data, are provided in Scripts_for_data_analysis.docx.
